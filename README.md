@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou Flavio Augusto 👋
 
-<!--
-**FlavioGohmmes/FlavioGohmmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor em formação | Apaixonado por tecnologia e inovação  
+💻 Habilidades: Python, JavaScript, Git, HTML, CSS  
+🌱 Atualmente aprendendo: React e Node.js  
+📚 Sempre em busca de novos desafios e oportunidades para crescer  
 
-Here are some ideas to get you started:
+### 📫 Como me encontrar:
+- **Email**: [flaviogohmes@gmail.com](mailto:flaviogohmes@gmail.com)
+- **LinkedIn**: [Flavio Augusto](https://www.linkedin.com/in/flavio-augusto-)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Curiosidades:
+- Amo café ☕ e música 🎵
+- Sempre disposto a colaborar em projetos open source
