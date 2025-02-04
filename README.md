@@ -1,5 +1,7 @@
 # Olá, eu sou Flavio Augusto 👋
 
+![FlavioGohmmes GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioGohmmes&hide=contribs,prs)
+
 🚀 Desenvolvedor em formação | Apaixonado por tecnologia e inovação  
 💻 Habilidades: Python, JavaScript, Git, HTML, CSS  
 🌱 Atualmente aprendendo: React e Node.js  
