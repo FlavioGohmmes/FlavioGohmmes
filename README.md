@@ -1,5 +1,3 @@
-
-
 # Olá, eu sou Flavio Augusto 👋
 
 🚀 Desenvolvedor em formação | Apaixonado por tecnologia e inovação  
@@ -7,14 +5,15 @@
 🌱 Atualmente aprendendo: React e Node.js  
 📚 Sempre em busca de novos desafios e oportunidades para crescer  
 
-## Tecnologias que venho desenvolvendo
+## Tecnologias que uso e estudo no meu dia
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Python" scr"https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="HTML5" scr"https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="JavaScript" scr"https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="MYsql" scr"https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
+<div style="display: inline_block">
+  <img align="center" alt="py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+</div><br/>
 
 ### 📫 Como me encontrar:
 - **Email**: [flaviogohmes@gmail.com](mailto:flaviogohmes@gmail.com)
